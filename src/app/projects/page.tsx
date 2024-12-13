@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Github, Code2, Palette, Zap } from "lucide-react";
+import { Github } from "lucide-react";
 
 const projects = [
   {

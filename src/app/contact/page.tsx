@@ -9,7 +9,7 @@ export default function Contact() {
       <Card>
         <CardHeader>
           <CardTitle>Contact Me</CardTitle>
-          <CardDescription>Send me a message and I'll get back to you as soon as possible.</CardDescription>
+          <CardDescription>Send me a message and I`ll get back to you as soon as possible.</CardDescription>
         </CardHeader>
         <CardContent>
           <form className="space-y-4">
